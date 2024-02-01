@@ -2,10 +2,10 @@
 
 // List of URLs to rotate through with custom zoom
 const urls = [
-    { url: "https://global-lb.inrangegolf.com/?challengeId=f5c1e3ad-e67a-49bc-9bd0-c251c9211426&tvDisplay=true", zoom: "100%" },
-    { url: "https://global-lb.inrangegolf.com/?challengeId=6ee082dd-23e3-4e96-aeda-e04936f08292&tvDisplay=true", zoom: "100%" },
-    { url: "https://global-lb.inrangegolf.com/?challengeId=56566197-c4cd-4d35-9b6a-8589e7d5d501&tvDisplay=true", zoom: "100%" },
-    { url: "https://nwscdn.com/media/catalog/product/cache/all/thumbnail/800x/0dc2d03fe217f8c83829496872af24a0/1/5/15mm_artificial_turf_golf_practice_mat_for_all_weather_conditions.jpg", zoom: "100%" },
+    { url: "https://global-lb.inrangegolf.com/?&challengeCode=SinglePlayerNearestToPin&date=Today&tvDisplay=true&animate=true&limit=15", zoom: "100%" },
+    { url: "https://global-lb.inrangegolf.com/?&challengeCode=MultiPlayerLongestDrive&date=Today&tvDisplay=true&animate=true&limit=15", zoom: "100%" },
+    { url: "https://global-lb.inrangegolf.com/?&challengeCode=MultiPlayerTwentyOne&date=Today&tvDisplay=true&animate=true&limit=15", zoom: "100%" },
+    { url: "https://s3.eu-west-1.amazonaws.com/app-media.inrangegolf.com/test/brandedChallenge/dutchgolfshow/carousel_dgc.jpg", zoom: "100%" },
     
     // Add more URLs with custom zoom if needed
   ];
