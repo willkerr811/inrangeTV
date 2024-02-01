@@ -11,7 +11,7 @@ const urls = [
   ];
   
   // Interval time in milliseconds for rotating the URLs (e.g., 10 seconds)
-  const intervalTime = 5000; // 5 seconds
+  const intervalTime = 10000; // 5 seconds
   
   // Index to keep track of the current URL
   let currentUrlIndex = 0;
