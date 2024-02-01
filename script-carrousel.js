@@ -1,3 +1,5 @@
+(function(){document.querySelector("body").requestFullscreen();})();
+
 // List of URLs to rotate through with custom zoom
 const urls = [
     { url: "https://global-lb.inrangegolf.com/?challengeId=f5c1e3ad-e67a-49bc-9bd0-c251c9211426&tvDisplay=true", zoom: "100%" },
